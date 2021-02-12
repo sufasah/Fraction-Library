@@ -8,7 +8,7 @@ Fraction Library
 Fadıl Şahin
 <br>
 
-* Project Date: <br/>
+* Project Start Date: <br/>
 December 2018
 <br>
 
